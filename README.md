@@ -6,4 +6,4 @@
 
 Header put
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat for real](https://octodex.github.com/images/yaktocat.png)
